@@ -47,4 +47,3 @@ Se você deseja contribuir com melhorias para esta página de login, siga estas 
 ## Autor
 
 [Jhonnatan Costa](https://github.com/XsJota/Quiz/commits?author=XsJota)
-# 1
