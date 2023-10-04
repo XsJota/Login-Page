@@ -1,6 +1,6 @@
 # Página de Login Simples
 
-Esta é uma página de login simples criada com HTML, CSS e JavaScript. Ela permite que os usuários insiram seu nome de usuário/email e senha para fazer login em uma aplicação.
+Esta é uma página de login simples criada com HTML, CSS. Ela permite que os usuários insiram seu nome de usuário/email e senha para fazer login em uma aplicação.
 
 ## Pré-requisitos
 
